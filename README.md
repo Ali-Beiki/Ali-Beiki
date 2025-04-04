@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate backend & WordPress developer from Iran.</h3>
-<img align="right" alt="❌" width ="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Lv_BDa7Dy3wChMo7ZU7AJbbWgoqUg3defw&s">
+<img align="right" alt="❌" width ="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5hZnc0NWZ5bXB6ZzU2N2o4bDMwNDltMHpqcW4xdW05ZjBycW9lZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-beiki&label=Profile%20views&color=0e75b6&style=flat" alt="ali-beiki" /> </p>
 
 - 🔭 I’m currently working on [WordPress shop theme](https://github.com/Ali-Beiki/wp-shop-theme)
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali-beiki-1b400b308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-beiki-1b400b308" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

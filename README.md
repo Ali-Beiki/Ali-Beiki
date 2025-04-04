@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate backend & WordPress developer from Iran.</h3>
-
+<img align="right" alt="❌" width ="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Lv_BDa7Dy3wChMo7ZU7AJbbWgoqUg3defw&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-beiki&label=Profile%20views&color=0e75b6&style=flat" alt="ali-beiki" /> </p>
 
 - 🔭 I’m currently working on [WordPress shop theme](https://github.com/Ali-Beiki/wp-shop-theme)
